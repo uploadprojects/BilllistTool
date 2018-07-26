@@ -1,4 +1,4 @@
-# WealthBilllist
+# BilllistTool
 
-Technical Support: WealthBilllist_TechnologyDepartment@gmail.com
+Technical Support: BilllistTool@gmail.com
 
